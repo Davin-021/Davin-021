@@ -1,6 +1,5 @@
   Hello, I’m @Davin-021
-  i am new here
-  i still learn programming
+  a Newbie programmer 
 
 
 <!---
